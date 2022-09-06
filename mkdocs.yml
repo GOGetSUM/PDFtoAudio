@@ -1,0 +1,13 @@
+site_name: PDF2Audio Docs
+
+theme:
+  name: 'material'
+
+plugins:
+  - mkdocstrings
+
+nav:
+  - index.md
+  - reference.md
+  - explanation.md
+
